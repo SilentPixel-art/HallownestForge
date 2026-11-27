@@ -144,7 +144,6 @@ Deutsch · English · Español · Français · Italiano · Português (Brasil) �
 - Visual Studio Build Tools (C++) **или** MinGW-w64 — для `hkloader.dll`, если его нет рядом со скриптом
 
 ```bat
-cd src
 python build.py
 ```
 
