@@ -147,7 +147,7 @@ Deutsch · English · Español · Français · Italiano · Português (Brasil) �
 python build.py
 ```
 
-Результат — `HallownestForge.exe`; ошибки сборки пишутся в `build.log`. Подробности — в [`src/README.txt`](src/README.txt).
+Результат — `HallownestForge.exe`; ошибки сборки пишутся в `build.log`.
 
 ## Благодарности и примечания
 
