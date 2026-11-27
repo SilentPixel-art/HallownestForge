@@ -144,7 +144,6 @@ Requirements to build:
 - Visual Studio Build Tools (C++) **or** MinGW-w64 — for `hkloader.dll`, if it is not already next to the script
 
 ```bat
-cd src
 python build.py
 ```
 
