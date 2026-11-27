@@ -135,7 +135,7 @@ Diagnostic logs (`launch.log`, `hkloader_boot.log`, `crash.log`) are in the same
 
 ## Building from source
 
-The source is in [`src/`](src). The program is C# (WinForms + GDI+) targeting .NET Framework 4.8; the in-game loader `hkloader` is native C++ and is embedded into the exe.
+The program is C# (WinForms + GDI+) targeting .NET Framework 4.8; the in-game loader `hkloader` is native C++ and is embedded into the exe.
 
 Requirements to build:
 
