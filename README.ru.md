@@ -135,7 +135,7 @@ Deutsch · English · Español · Français · Italiano · Português (Brasil) �
 
 ## Сборка из исходников
 
-Исходники лежат в [`src/`](src). Программа написана на C# (WinForms + GDI+) под .NET Framework 4.8; внутриигровой загрузчик `hkloader` — нативный C++, он вшивается в exe.
+Программа написана на C# (WinForms + GDI+) под .NET Framework 4.8; внутриигровой загрузчик `hkloader` — нативный C++, он вшивается в exe.
 
 Для сборки нужны:
 
