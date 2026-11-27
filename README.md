@@ -147,7 +147,7 @@ Requirements to build:
 python build.py
 ```
 
-The result is `HallownestForge.exe`; build errors go to `build.log`. Details are in [`src/README.txt`](src/README.txt) (in Russian).
+The result is `HallownestForge.exe`; build errors go to `build.log`.
 
 ## Credits and notes
 
